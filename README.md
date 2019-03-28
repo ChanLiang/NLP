@@ -7,7 +7,7 @@ to impliment some basic algorithms and models in natural language processing
        a.正向匹配算法: <a href="https://github.com/ChanLiang/NLP/blob/master/01_Chinese_word_segmentation/01_MM.py">01_MM.py</a><br>
        b.逆向匹配算法: <a href="https://github.com/ChanLiang/NLP/blob/master/01_Chinese_word_segmentation/02_HMM.py">02_HMM.py</a><br>
        
->>**2. 统计方法：**
+>>**2. 统计方法：**<br>
        HMM模型: <a href="https://github.com/ChanLiang/NLP/blob/master/01_Chinese_word_segmentation/04_HMM.py">04_HMM.py</a><br>
 
 除了手写代码和模型，也介绍一种较为常用的工具－Jieba：（更新ing）
