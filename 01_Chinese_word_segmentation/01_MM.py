@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2019/3/25 19:42
+# @Author  : ChanLiang
+# @FileName: 01_RMM.py
+# @Software: PyCharm
+# @Github  ：https://github.com/ChanLiang
+
 class MM(object):
     def __init__(self):
         self.dic = ['南京', '南京市', '南京市长', '江', '大桥', '江大桥', '长江大桥', '研究', '研究生', '生命', '命', '的', '起源']
